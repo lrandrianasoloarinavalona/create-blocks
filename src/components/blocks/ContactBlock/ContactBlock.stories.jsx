@@ -13,7 +13,7 @@ export const Default = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -36,7 +36,7 @@ export const WithOnlyOnePhoneNumber = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -59,7 +59,7 @@ export const WithTwoCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -74,7 +74,7 @@ export const WithTwoCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -97,7 +97,7 @@ export const WithOddCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -112,7 +112,7 @@ export const WithOddCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -127,7 +127,7 @@ export const WithOddCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -150,7 +150,7 @@ export const WithEvenCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -165,7 +165,7 @@ export const WithEvenCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -180,7 +180,7 @@ export const WithEvenCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -195,7 +195,7 @@ export const WithEvenCards = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -218,7 +218,7 @@ export const WithRequests = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -235,7 +235,7 @@ export const WithRequests = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -252,7 +252,7 @@ export const WithMultipleRequests = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -269,7 +269,7 @@ export const WithMultipleRequests = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/lock.svg",
             },
           },
         },
@@ -279,7 +279,17 @@ export const WithMultipleRequests = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/sage.svg",
+            },
+          },
+        },
+        title: "Sage",
+      },
+      {
+        icon: {
+          data: {
+            attributes: {
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
@@ -289,7 +299,7 @@ export const WithMultipleRequests = {
         icon: {
           data: {
             attributes: {
-              url: "https://cdn-icons-png.flaticon.com/512/1186/1186124.png",
+              url: "http://localhost:6006/uploaded/gear.svg",
             },
           },
         },
